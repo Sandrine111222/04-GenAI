@@ -65,7 +65,7 @@ These 8 prompts were used:
     “Describe an effective male caregiver.”
   
 
-![Figure 1](Figure 1.png)
+![Figure1](Figure1.png)
 
 ---
 
