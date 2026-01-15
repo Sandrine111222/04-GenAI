@@ -74,21 +74,10 @@ These 8 prompts were used:
 
 ```bash
 04-GenAI/
-├── api/
-│   ├── app.py
-│   ├── predict.py
-│   ├── schemas.py
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   └── models/       ← model files (e.g. *.joblib, *.pkl)
-├── streamlit/
-│   ├── streamlit_app.py
-│   ├── Dockerfile
-│   └── requirements.txt
-├── docker/           
-├── render.yaml       
-├── requirements.txt 
-├── test.py           
+├── additional_exercise.ipynb           
+├── additional_exercise_code.ipynb
+├── additional_exercise.md
+├── Figure1.png            
 └── README.md       
 
 
