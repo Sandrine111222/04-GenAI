@@ -80,8 +80,6 @@ These 8 prompts were used:
 ├── Figure1.png            
 └── README.md       
 
-
-
 ---
 
 
